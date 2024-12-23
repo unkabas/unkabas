@@ -2,8 +2,6 @@
 
 <div id="header" align="center">
   <img src="https://media1.tenor.com/m/Y9jfbVUn5zkAAAAC/juice-wrld-american-rapper.gif" width=100%/>
-</div>
-
 <div id="badges">
   <a href="your-linkedin-URL">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -15,6 +13,8 @@
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
+</div>
+
 
 <!--
 **unkabas/unkabas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
