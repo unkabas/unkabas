@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 <div id="header" align="center">
-  <img src="https://tenor.com/search/juice+wrld-gifs" width=100%/>
+  <img src="https://tenor.com/embed.js" width=100%/>
 </div>
 <div class="tenor-gif-embed" data-postid="17002109" data-share-method="host" data-aspect-ratio="1.66667" data-width="100%"><a href="https://tenor.com/view/juice-wrld-american-rapper-jarad-anthony-higgins-cigar-smoke-gif-17002109">Juice Wrld American Rapper GIF</a>from <a href="https://tenor.com/search/juice+wrld-gifs">Juice Wrld GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 <!--
