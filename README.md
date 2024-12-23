@@ -36,7 +36,7 @@
 <ul>
   <li>:rocket: Continue learning React and Next.js</li>
   <li>:computer: Practice building real projects</li>
-  <li>:earth: Contribute to open-source projects on GitHub</li>
+  <li>:earth_africa Contribute to open-source projects on GitHub</li>
   <li>:speech_balloon: Network with other developers in the community</li>
 </ul>
 
