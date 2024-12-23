@@ -55,5 +55,3 @@
 </div>
 
 
-### :fire: My Stats :
-[![GitHub Streak](https://streak-stats.demolab.com/?user=unkabas)](https://git.io/streak-stats)
