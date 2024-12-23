@@ -17,18 +17,35 @@
 
 </div>
 
+About me:
+<h1>About Me</h1>
 
-<!--
-**unkabas/unkabas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p>:wave: I'm a beginner frontend developer from Russia.</p>
 
-Here are some ideas to get you started:
+<p>:heart: I love React JS and am learning Next.js and TypeScript. I enjoy constantly improving my skills and knowledge.</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h2>Interests</h2>
+
+<ul>
+  <li>:rocket: Building web applications with React</li>
+  <li>:book: Learning about modern frontend technologies</li>
+  <li>:pencil: Solving coding problems on platforms for developers</li>
+  <li>:newspaper: Reading tech articles about programming</li>
+</ul>
+
+<h3>Get in Touch</h3>
+
+<p>GitHub: [Your GitHub account]</p>
+<p>LinkedIn: [Your LinkedIn link]</p>
+
+<h3>Future Plans</h3>
+
+<ul>
+  <li>:rocket: Continue learning React and Next.js</li>
+  <li>:computer: Practice building real projects</li>
+  <li>:earth: Contribute to open-source projects on GitHub</li>
+  <li>:speech_balloon: Network with other developers in the community</li>
+</ul>
+
+<p>Welcome! I'm excited to have you visit my GitHub profile. If you have any questions or suggestions about my projects - please don't hesitate to reach out.</p>
+
