@@ -56,4 +56,4 @@
 
 
 ### :fire: My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=unkabas&theme=dark)](https://git.io/streak-stats)
+<img src = "http://github-readme-streak-stats.herokuapp.com?user=unkabas&theme=dark" />
