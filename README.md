@@ -56,9 +56,4 @@
 
 
 ### :fire: My Stats :
-
-
-GitHub Streak: [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=unkabas&theme=dark&background=000000)](https://git.io/streak-stats)
-
-Commit Status: [![Commit Status](https://badges.github.io/statuses/unkabas/contributions.svg)](https://github.com/unkabas/contributions)
-
+[![GitHub Streak](https://streak-stats.demolab.com/?user=unkabas)](https://git.io/streak-stats)
