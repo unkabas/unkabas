@@ -16,8 +16,6 @@
 
 
 </div>
-
-About me:
 <h1>About Me</h1>
 
 <p>:wave: I'm a beginner frontend developer from Russia.</p>
@@ -32,11 +30,6 @@ About me:
   <li>:pencil: Solving coding problems on platforms for developers</li>
   <li>:newspaper: Reading tech articles about programming</li>
 </ul>
-
-<h3>Get in Touch</h3>
-
-<p>GitHub: [Your GitHub account]</p>
-<p>LinkedIn: [Your LinkedIn link]</p>
 
 <h3>Future Plans</h3>
 
