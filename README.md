@@ -6,7 +6,7 @@
 
   
 <div id="badges">
-  <a href="https://smolensk.hh.ru/resume/f59e0a15ff0df37f360039ed1f6d487879345a?customDomain=1">
+  <a href="https://smolensk.hh.ru/applicant/resumes/view?resume=bbe6fc4cff0e75dc770039ed1f655639525642">
     <img src="https://img.shields.io/badge/HH.ru-red?logo=hh&logoColor=red&style=for-the-badge" alt="HH.ru Badge"/>
   </a>
   <a href="https://t.me/unkabas">
